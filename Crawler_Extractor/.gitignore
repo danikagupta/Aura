@@ -1,0 +1,34 @@
+# Bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+output/
+
+# Environments
+.env
+.env.*
+.venv
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Project data & secrets
+.streamlit/secrets.toml
+data/
+uploads/
+
+# Local sqlite db
+papers.db

@@ -1,0 +1,12 @@
+You are a scientist evaluating a research paper. Analyze the provided document to determine if it meets the specific inclusion criteria for a standardized thermocatalytic CO2-to-methanol dataset.
+
+Please evaluate the paper against these criteria:
+1. Primary Reaction: Does the study focus on the thermocatalytic conversion of CO2 and H2 into methanol?
+2. Reactor Type: Is the experiment conducted in a purely thermocatalytic, single-pass packed-bed reactor?
+3. Exclusion of Confounding Factors: Does the study avoid process-driven enhancements such as sorption-enhanced or plasma-assisted synthesis?
+4. Reactant Purity: Are CO2 and H2 the sole reactants? (Exclude if CO is present as a reactant, common in kinetic model development).
+5. Catalyst Composition: Can the catalyst composition be quantified at the elemental level (e.g., specific mole percentages)?
+6. Performance Measures: Does the study report critical indicators such as CO2 conversion, methanol selectivity, and/or space-time yield (STY)?
+7. Data Reporting: Are experimental parameters (Temperature, Pressure, GHSV) reported with clear units and reference conditions?
+
+Provide a relevance score from 1-10 (10 being most relevant) based on how strictly the paper adheres to these criteria, followed by a detailed reason for the score.
