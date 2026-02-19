@@ -1,0 +1,33 @@
+catalyst_name,catalyst_composition_available (Yes/No),starting_material_active_1,active_comp_1,active_1_percent,starting_material_2,active_comp_2,active_2_percent,support_comp_1,support_1_percent,support_comp_2,support_2_percent,catalyst_surface_area_m2_g,mean_pore_diameter_nm,temperature_k,pressure_bar,pH2_pCO2_ratio,GHSV_nlph_gcat,catalyst_load_g,CO2_conversion,selectivity_CH3OH,yield_CH3OH,STY_g_per_gcath
+In2O3/ZrO2,Yes,In(NO3)3*xH2O,In,10.1,,,ZrO2,89.9,,,87,,528,40,4,52,0.15,1.3,81,1.053,0.14,
+In2O3/ZrO2,Yes,In(NO3)3*xH2O,In,10.1,,,ZrO2,89.9,,,87,,543,40,4,52,0.15,3,76,2.28,0.25,
+In2O3/ZrO2,Yes,In(NO3)3*xH2O,In,10.1,,,ZrO2,89.9,,,87,,558,40,4,52,0.15,6.2,65,4.03,0.38,
+In2O3/ZrO2,Yes,In(NO3)3*xH2O,In,10.1,,,ZrO2,89.9,,,87,,573,40,4,52,0.15,10.5,53,5.565,0.465,
+1.5Y9In/ZrO2,Yes,In(NO3)3*xH2O,In,9.1,Y(NO3)3*4H2O,Y,1.5,ZrO2,89.4,,,84,,528,40,4,52,0.15,1,100,1,0.08
+1.5Y9In/ZrO2,Yes,In(NO3)3*xH2O,In,9.1,Y(NO3)3*4H2O,Y,1.5,ZrO2,89.4,,,84,,543,40,4,52,0.15,2.4,94,2.256,0.17
+1.5Y9In/ZrO2,Yes,In(NO3)3*xH2O,In,9.1,Y(NO3)3*4H2O,Y,1.5,ZrO2,89.4,,,84,,558,40,4,52,0.15,5.1,82,4.182,0.27
+1.5Y9In/ZrO2,Yes,In(NO3)3*xH2O,In,9.1,Y(NO3)3*4H2O,Y,1.5,ZrO2,89.4,,,84,,573,40,4,52,0.15,7.6,69,5.244,0.42
+2Y8In/ZrO2,Yes,In(NO3)3*xH2O,In,8.4,Y(NO3)3*4H2O,Y,2.3,ZrO2,89.3,,,84,,528,40,4,52,0.15,1.2,100,1.2,0.07
+2Y8In/ZrO2,Yes,In(NO3)3*xH2O,In,8.4,Y(NO3)3*4H2O,Y,2.3,ZrO2,89.3,,,84,,543,40,4,52,0.15,1.9,97,1.843,0.13
+2Y8In/ZrO2,Yes,In(NO3)3*xH2O,In,8.4,Y(NO3)3*4H2O,Y,2.3,ZrO2,89.3,,,84,,558,40,4,52,0.15,3.4,87,2.958,0.23
+2Y8In/ZrO2,Yes,In(NO3)3*xH2O,In,8.4,Y(NO3)3*4H2O,Y,2.3,ZrO2,89.3,,,84,,573,40,4,52,0.15,6,72,4.32,0.37
+3Y8In/ZrO2,Yes,In(NO3)3*xH2O,In,8.4,Y(NO3)3*4H2O,Y,2.9,ZrO2,88.7,,,88,,528,40,4,52,0.15,1,100,1,0.06
+3Y8In/ZrO2,Yes,In(NO3)3*xH2O,In,8.4,Y(NO3)3*4H2O,Y,2.9,ZrO2,88.7,,,88,,543,40,4,52,0.15,1.6,96,1.536,0.12
+3Y8In/ZrO2,Yes,In(NO3)3*xH2O,In,8.4,Y(NO3)3*4H2O,Y,2.9,ZrO2,88.7,,,88,,558,40,4,52,0.15,2.8,88,2.464,0.2
+3Y8In/ZrO2,Yes,In(NO3)3*xH2O,In,8.4,Y(NO3)3*4H2O,Y,2.9,ZrO2,88.7,,,88,,573,40,4,52,0.15,4.5,74,3.33,0.33
+3La10In/ZrO2,Yes,In(NO3)3*xH2O,In,9.9,La(NO3)3*6H2O,La,3.4,ZrO2,86.7,,,84,,528,40,4,52,0.15,1.1,100,1.1,0.15
+3La10In/ZrO2,Yes,In(NO3)3*xH2O,In,9.9,La(NO3)3*6H2O,La,3.4,ZrO2,86.7,,,84,,543,40,4,52,0.15,2.9,91,2.639,0.241
+3La10In/ZrO2,Yes,In(NO3)3*xH2O,In,9.9,La(NO3)3*6H2O,La,3.4,ZrO2,86.7,,,84,,558,40,4,52,0.15,5.6,80,4.48,0.35
+3La10In/ZrO2,Yes,In(NO3)3*xH2O,In,9.9,La(NO3)3*6H2O,La,3.4,ZrO2,86.7,,,84,,573,40,4,52,0.15,7.7,66,5.082,0.42
+In2O3 [Ref 15],No,,In,,,,,None,,,,603,40,,15,0.1,7.1,40,2.84,0.118,,
+In2O3 [Ref 22],No,,In,,,,,None,,,,573,50,,20,,3.7,100,3.7,0.208,,
+In2O3/ZrO2 [Ref 22],No,,In,,,,,ZrO2,,,,573,50,,20,,5.2,99.8,5.1896,0.295,,
+In2O3 [Ref 23],No,,In,,,,,None,,,,573,50,,21,,8.2,71,5.822,0.352,,
+Pd-P/In2O3 [Ref 23],No,,Pd,,,,,In2O3,,,,573,50,,21,,20.5,72,14.76,0.885,,
+Cu-ZnO-Al2O3 [Ref 22],No,,Cu,,,,,ZnO-Al2O3,,,,573,50,,20,,2.1,11,0.231,0.122,,
+Cu/ZnO/Al2O3 [Ref 58],No,,Cu,,,,,ZnO-Al2O3,,,,553,46,,14.7,,23,13,2.99,0.156,,
+Cu/ZnO/ZrO2 [Ref 59],No,,Cu,,,,,ZnO-ZrO2,,,,493,80,,3.3,,21,68,14.28,0.181,,
+Cu-Zn-Ga/SiO2 [Ref 60],No,,Cu,,,,,SiO2,,,,543,20,,18,,5.6,99.5,5.572,0.349,,
+Cu/ZrO2 [Ref 38],No,,Cu,,,,,ZrO2,,,,553,30,,7.2,,12.1,31,3.751,0.096,,
+Pd-ZnO/CNT [Ref 61],No,,Pd,,,,,ZnO-CNT,,,,523,30,,1.8,,6.3,99.6,6.2748,0.037,,
+Pd/Ga2O3 [Ref 13],No,,Pd,,,,,Ga2O3,,,,523,50,,18,,19.6,10.1,1.9796,0.128,,
